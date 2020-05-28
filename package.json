@@ -6,21 +6,23 @@
   },
   "dependencies": {
     "cytoscape": {
-      "version": "3.14.2",
-      "resolved": "https://registry.npmjs.org/cytoscape/-/cytoscape-3.14.2.tgz",
       "integrity": "sha512-QRxz+FQdCPeMhrBLOSN1vbPyPZwFUX6Ae6N9V6isMmgUeiTnzE+PtLuDAQw4uQRP1U/x6v2nnSfyBOtVJfIrLw==",
       "requires": {
         "heap": "^0.2.6",
         "lodash.debounce": "^4.0.8"
-      }
+      },
+      "resolved": "https://registry.npmjs.org/cytoscape/-/cytoscape-3.14.2.tgz",
+      "version": "3.14.2"
     },
     "cytoscape-cola": {
-      "version": "2.3.1",
-      "resolved": "https://registry.npmjs.org/cytoscape-cola/-/cytoscape-cola-2.3.1.tgz",
       "integrity": "sha512-CJ+AbNxqsEPEr+bsUfMcgg3T2E9NkwWVx1u7a6wixdg3uD6aDQI5vX5I0+A19QIrpqNWrm5O8w3oXf/ZcJwwmA==",
       "requires": {
         "webcola": "^3.4.0"
-      }
-    }
+      },
+      "resolved": "https://registry.npmjs.org/cytoscape-cola/-/cytoscape-cola-2.3.1.tgz",
+      "version": "2.3.1"
+    },
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
   }
 }
